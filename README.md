@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ricardoblinks
 - 👀 I’m interested in Building Softwares
-- 🌱 I’m currently learning ALX Software Engineering 
-- 💞️ I’m looking to collaborate on Great Projects 
+- 🌱 I’m currently Working at Compumetrics Solutions Nig. Ltd. as a Full-stack Software Engineering 
+- 💞️ I’m open to collaborate on Great Projects 
 - 📫 How to reach me email: ricardoblinks1@gmail.com
 
 <!---
